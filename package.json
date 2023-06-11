@@ -25,7 +25,7 @@
     "smee-client": "^1.2.2"
   },
   "engines": {
-    "node": ">= 10.13.2"
+    "node": ">= 10.13.5"
   },
   "jest": {
     "testEnvironment": "node"
