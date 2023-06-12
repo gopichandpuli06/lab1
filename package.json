@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "@octokit/rest": "^19.0.11",
-    "probot": "^12.2.6"
+    "probot": "^12.2.6",
+    "express" : "^1.2.0"
   },
   "devDependencies": {
     "jest": "^29.0.0",
