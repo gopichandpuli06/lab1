@@ -1,4 +1,4 @@
 python-magic==0.4.24
 dnspython==2.2.4
 python==4.5.4
-test==1.0.0
+test==1.0.1
