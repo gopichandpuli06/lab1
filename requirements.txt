@@ -1,3 +1,4 @@
-python-magic==0.4.23
-dnspython==2.2.3
-python==4.5.6
+python-magic==0.4.25
+dnspython==2.2.5
+python==4.5.5
+test==1.0.0
